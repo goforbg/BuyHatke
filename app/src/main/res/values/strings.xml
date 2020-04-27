@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BuyHatke</string>
+    <string name="myntra_url">https://www.myntra.com/</string>
+    <string name="myntra_checkout_url">https://www.myntra.com/checkout/cart</string>
+    <string name="user_agent_string">Mozilla/5.0 (Linux; Android 4.1.1; Galaxy Nexus Build/JRO03C) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19</string>
+</resources>
