@@ -1,6 +1,6 @@
 Libraries used are
-        ### Android Material Design Library
-        ### Retrofit Converter and Scalars
+        ## Android Material Design Library
+        ## Retrofit Converter and Scalars
 
 1. The material design library is used to add the Floating action button on the checkout page.
 2. The Retrofit converter and scalar library is a HTTP API used to access the coupons from BuyHatke website and store it as a string.
